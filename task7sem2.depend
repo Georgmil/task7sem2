@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1621733485 source:c:\users\georgy milyushkov\documents\programirovanie\task7sem2\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+
