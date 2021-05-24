@@ -19,6 +19,8 @@ typedef struct Node{
     struct Node *prev;
 }list;
 
+void programma(list *head, list *tail,int randik);
+
 void push(list **head,list **tail, int value,double time,double kogda,int kol);
 void pop_last(list **tail, list **head);
 double randomchik(double a, double b);

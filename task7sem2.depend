@@ -1,5 +1,15 @@
 # depslib dependency file v1.0
-1621733485 source:c:\users\georgy milyushkov\documents\programirovanie\task7sem2\main.cpp
+1621850774 source:c:\users\georgy milyushkov\documents\programirovanie\task7sem2\main.cpp
+	"task7sem2.hpp"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+
+1621852713 source:c:\users\georgy milyushkov\documents\programirovanie\task7sem2\task7.cpp
+	"task7sem2.hpp"
+
+1621850585 c:\users\georgy milyushkov\documents\programirovanie\task7sem2\task7sem2.hpp
 	<stdio.h>
 	<stdlib.h>
 	<time.h>
